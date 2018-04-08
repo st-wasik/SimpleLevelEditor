@@ -1,32 +1,25 @@
-# Prerequisites
-*.d
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
+.vs/SimpleLevelEditor/v15/.suo
+*.db
+*.ipch
 *.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
+*.obj
+*.tlog
+*.tlog
+*.lastbuildstate
+*.pch
+*.pdb
+*.idb
+*.vcxproj
+*.filters
+*.log
 *.exe
-*.out
-*.app
+*.iobj
+*.ipdb
+.vs/SimpleLevelEditor/v14/.suo
+*.ilk
+*.sdf
+*.suo
+
+*/Debug/
+*.opendb
